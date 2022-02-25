@@ -2,5 +2,5 @@ echo '' > up_to_date
 cat up_to_date                                                                                      
 git add .
 git commit -m 'How to be up to date in git'
-git push                                                                                           
+git pull                                                                                         
   
